@@ -1,9 +1,11 @@
 ## Hi 👋🫂,I'm Chamika Heshan
 
 # 💫 About Me
-![IMG-20241002-WA000512](https://github.com/user-attachments/assets/354a9f18-973e-4750-ac42-c592e242a5f1)
+
 
  🔭 I’m currently working on KreedX Software Club<br> 🌱 I’m currently learning Java, PHP, SQL, React , Laravel <br> 💬 Ask me about HTML, CSS ,Bootstrap 5, JS, Tailwind, PHP, Java<br>        and MySQL <br> 📫 How to reach me: heshanchamika96@gmail.com<br> 🔥  I am a beginner developer and Treder. <br> ⚡ Fun fact: We laugh at something 😁
+
+
 
 
 ## 🌐 Socials:
