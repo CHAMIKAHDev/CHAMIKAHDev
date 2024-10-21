@@ -4,7 +4,7 @@
 
 # 💫 About Me
 
- 🔭 I’m currently working on KreedX Software Club<br> 🌱 I’m currently learning Java, PHP, SQL, React , Laravel <br> 💬 Ask me about HTML, CSS ,Bootstrap 5, JS, Tailwind, PHP, Java<br>        and MySQL <br> 📫 How to reach me: heshanchamika96@gmail.com<br> 🔥  I am a beginner developer and Treder. <br> ⚡ Fun fact: We laugh at something 😁
+ 🔭 I’m currently working on KreedX Software Club<br> 🌱 I’m currently learning Java, PHP, SQL, React , Laravel <br> 💬 Ask me about HTML, CSS ,Bootstrap 5, JS, Tailwind, PHP, Java<br>        and MySQL <br> 📫 How to reach me: heshanchamika96@gmail.com<br> 🔥  I am a beginner developer and Treder. <br> ⚡ Fun fact: We laugh at something 😁     ![ezgif-3-39ae4f59c0](https://github.com/user-attachments/assets/c86fdb22-a60f-48fd-b647-ddf6fe0e5466)
 
 
 
