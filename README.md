@@ -1,7 +1,7 @@
 ## Hi 👋🫂,I'm Chamika Heshan
 
 # 💫 About Me
-
+![1021(1) (online-video-cutter com) (1)](https://github.com/user-attachments/assets/04bc58bd-a107-485c-9172-d26923828066)
 
  🔭 I’m currently working on KreedX Software Club<br> 🌱 I’m currently learning Java, PHP, SQL, React , Laravel <br> 💬 Ask me about HTML, CSS ,Bootstrap 5, JS, Tailwind, PHP, Java<br>        and MySQL <br> 📫 How to reach me: heshanchamika96@gmail.com<br> 🔥  I am a beginner developer and Treder. <br> ⚡ Fun fact: We laugh at something 😁
 
